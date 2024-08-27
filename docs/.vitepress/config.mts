@@ -18,7 +18,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     i18nRouting: false,
 
-    logo: "../public/logo.png",
+    logo: "./public/logo.png",
     
     nav: [
       { text: 'Home', link: '/' },

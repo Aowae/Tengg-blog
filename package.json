@@ -3,5 +3,12 @@
     "docs:dev": "vitepress dev docs",
     "docs:build": "vitepress build docs",
     "docs:preview": "vitepress preview docs"
+  },
+  "dependencies": {
+    "scss": "^0.2.4"
+  },
+  "devDependencies": {
+    "sass": "^1.77.8",
+    "sass-embedded": "^1.77.8"
   }
 }
