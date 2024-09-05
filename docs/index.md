@@ -17,7 +17,7 @@ features:
   - icon: 📖
     title: 前端知识点
     details: 整理前端常用知识点<small>（面试八股文）</small><br />如有异议按你的理解为主，不接受反驳
-    link: './src/fe/fe.md'
+    link: './src/fe/index.md'
     linkText: 前端常用知识
   - icon: 📘
     title: 源码阅读
@@ -27,22 +27,22 @@ features:
   - icon: 💡
     title: 强健身体
     details: 一些健身和健康的心得<small>（小白）</small><br />仅仅供参考
-    link: './src/exercrise.md'
+    link: './src/exercrise/index.md'
     linkText: 强健身体
   - icon: 🧰
     title: 生财有道
     details: 带学习ing
-    link: './src/money.md'
+    link: './src/money/index.md'
     linkText: 钱钱钱
   - icon: 🐞
     title: 踩坑记录
     details: 那些年我们踩过的坑<br />总有一些让你意想不到的问题
-    link: https://notes.fe-mm.com/pit/npm
+    link: './src/trash/index.md'
     linkText: 踩坑记录
   - icon: 💯
     title: 吾志所向，一往无前。
     details: '<small class="bottom-small">彩蛋</small>'
-    link: 'surprise.md'
+    link: './src/surprise.md'
 ---
 
 <style>
