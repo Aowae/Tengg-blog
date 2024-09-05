@@ -2,7 +2,7 @@
 import { h, watch } from 'vue';
 import type { Theme } from 'vitepress'
 import DefaultTheme from 'vitepress/theme'
-import './styles/index.scss'
+// import './styles/index.scss'
 let homePageStyle: HTMLStyleElement | undefined
 export default {
   extends: DefaultTheme,
